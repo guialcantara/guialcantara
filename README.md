@@ -35,7 +35,7 @@
     
 ## Perfil  <a href="https://emoji.gg/emoji/2112_wave_animated"><img src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" width="24px" height="24px" alt="wave_animated"></a>:smile:
   
- <p>Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Guaratinguetá, e atualmente estou em buscas de oportunidades na área de desenvolvimento utilizando React.js  ou outras tecnologias atuais. Tenho como objetivo fazer parte de uma empresa que faça diferença nas vidas das pessoas.
+ <p>Sou formado em Análise e Desenvolvimento de Sistemas na Fatec Guaratinguetá, e atualmente estou atuando como desenvolvedor full stack. Tenho como objetivo fazer parte de uma empresa que faça diferença nas vidas das pessoas.
 
 Nas horas vagas busco aprender um pouco sobre desenvolvimento de jogo e conceitos de UI/UX.
   </p>
