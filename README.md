@@ -2,22 +2,14 @@
 ## Ola! Eu sou o Guilherme Alcântara
  
  <div>
-  <a href="https://github.com/guialcantara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialcantara&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialcantara&layout=compact&langs_count=7&theme=vue-dark"/>
-   <div style="display: inline_block">
-  <img  src="https://komarev.com/ghpvc/?username=guialcantara&color=273849" alt="guialcantara" />  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guialcantara&theme=react"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialcantara&theme=react"/>
 </div>
-</div>
+<br/>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,less,nodejs,nest,vue,docker,figma,github,jest,vitest,linux,postman,styledcomponents,vercel,vite,bootstrap,postgres,java,kafka" />
+</a>
  
 </div>
  
