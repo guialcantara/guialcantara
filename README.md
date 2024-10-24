@@ -2,9 +2,9 @@
 ## Ola! Eu sou o Guilherme Alcântara
  ![](./profile-3d-contrib/profile-night-view.svg)
  <div style="display: flex; justify-content: space-between">
-   <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guialcantara&theme=prussian"/>
+   <img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guialcantara&theme=prussian"/>
 
-   <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guialcantara&theme=prussian&utcOffset=-3"/>
+   <img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guialcantara&theme=prussian&utcOffset=-3"/>
 </div>
 <br/>
 <div style="display: inline_block"><br>
