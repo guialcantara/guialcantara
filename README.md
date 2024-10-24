@@ -1,14 +1,15 @@
 
 ## Ola! Eu sou o Guilherme Alcântara
- 
- <div>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guialcantara&theme=react"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guialcantara&theme=react"/>
+ ![](./profile-3d-contrib/profile-night-view.svg)
+ <div style="display: flex; justify-content: space-between">
+   <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guialcantara&theme=prussian"/>
+
+   <img height="193px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guialcantara&theme=prussian&utcOffset=-3"/>
 </div>
 <br/>
 <div style="display: inline_block"><br>
  <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,less,nodejs,nest,vue,docker,figma,github,jest,vitest,linux,postman,styledcomponents,vercel,vite,bootstrap,postgres,java,kafka" />
+  <img width="100%" src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,less,nodejs,nest,vue,docker,figma,github,jest,vitest,linux,postman,styledcomponents,vercel,vite,postgres,java,kafka" />
 </a>
  
 </div>
